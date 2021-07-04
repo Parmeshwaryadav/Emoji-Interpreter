@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap");
+.App {
+  font-family: "Zen Tokyo Zoo", cursive;
+  text-align: center;
+}
+input {
+  width: 80%;
+  padding: 12px;
+  border-radius: 5px;
+}
+.emojiAns {
+  padding: 1rem;
+  font-size: 20px;
+}
+.emojisWeHave {
+  margin-bottom: 15px;
+}
+.emojis {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
